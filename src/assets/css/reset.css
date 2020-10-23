@@ -1,0 +1,6 @@
+body{ font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif; color: #666; }
+html,body,div,p, h1,h2,h3,h4,h5,h6,ul,ol,input,button{ padding: 0; margin: 0; font-weight: normal;}
+ul,ol{ list-style: none; }
+a{ text-decoration: none;  color: inherit;font-size: inherit;}
+em,i{font-style: normal;}
+input,button{ outline: none; border: none; }
