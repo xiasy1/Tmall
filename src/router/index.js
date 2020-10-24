@@ -8,7 +8,9 @@ const Cart = () => import('views/Cart.vue');
 const List = () => import('views/List.vue');
 const Profile = () => import('views/Profile.vue');
 const More = () => import('views/More.vue');
-const Tone = () => import('views/MoreChildren/Tone')
+const Tone = () => import('views/MoreChildren/Tone');
+const Charm = () => import('views/MoreChildren/Charm');
+
 const routes = [
   {
     path: '/',
@@ -33,12 +35,17 @@ const routes = [
   {
     path: '/more',
     name: 'More',
-    component: More,
+    component: More
   },
   {
     path: '/tone',
     name: 'Tone',
     component: Tone,
+  },
+  {
+    path: '/charm',
+    name: 'Charm',
+    component: Charm,
   },
   {
     path: '/*',

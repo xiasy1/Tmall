@@ -56,6 +56,7 @@
   li{
     height: 100%;
     flex: 1;
+    font-size: 0.875rem;
     text-align: center;
     &:first-child{
       border-radius: 0.5rem 0 0 0.5rem;
