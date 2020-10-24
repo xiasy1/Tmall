@@ -23,8 +23,8 @@
           <a href="javascript:;">
             <img src="~assets/img/more/bao.jpg" alt="">
             <em>新品</em>
-            <p></p>
-            <p></p>
+            <p>SEE BY CHLOE</p>
+            <p>2020春夏多色Joan牛皮流苏圆环迷你单肩斜挎包女包</p>
             <h5>￥2290 <del>￥2600</del></h5>
           </a>
         </li>
@@ -91,11 +91,24 @@ export default {
       li{
         width: 6.3125rem;
         height: 10.9375rem;
-        border: 1px solid silver;
+        // border: 1px solid silver;
         margin-bottom: 0.3125rem;
         img{
           width: 6.25rem;
           height: 6.25rem;
+        }
+        em{
+          color: #fff;
+          font-weight: bold;
+          background: red;
+          padding: 0.125rem;
+          border-radius: 0.3125rem;
+        }
+        p{
+          margin-top: 0.125rem;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
         }
       }
     }
