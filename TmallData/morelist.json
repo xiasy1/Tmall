@@ -1,0 +1,215 @@
+{
+  "feature": {
+    "title": "特色市场",
+    "content": [
+      {
+        "link": "/tone","name": "腔调",
+        "imgUrl": "//gw.alicdn.com/tps/TB1UE1mPXXXXXX9apXXXXXXXXXX-156-156.png"
+      },
+      {
+        "link": "/tone","name": "淘抢购",
+        "imgUrl": "//gw.alicdn.com/tps/i4/TB1ygpSHFXXXXcFapXX5rDaIVXX-80-80.png"
+      },
+      {
+        "link": "/tone","name": "超市量贩",
+        "imgUrl": "//gw.alicdn.com/tps/i2/TB1RNfTGFXXXXbMXFXX5rDaIVXX-80-80.png"
+      },
+      {
+        "link": "/charm","name": "魅力惠",
+        "imgUrl": "//gw.alicdn.com/tps/TB1Y2GsPXXXXXbPaXXXXXXXXXXX-156-156.png"
+      },
+      {
+        "link": "/tone","name": "星店",
+        "imgUrl": "//gw.alicdn.com/tps/i3/TB1tsY_GFXXXXXZXXXXorbaIVXX-80-80.jpg"
+      },
+      {
+        "link": "/tone","name": "司法拍卖",
+        "imgUrl": "//gw.alicdn.com/tps/i4/TB1nVi_LpXXXXcrXFXXx67lOXXX-156-156.png"
+      },
+      {
+        "link": "/tone","name": "限时拍",
+        "imgUrl": "//gw.alicdn.com/tps/i1/TB1VkGtLpXXXXcAXVXXx67lOXXX-156-156.png"
+      },
+      {
+        "link": "/tone","name": "香甜农产品",
+        "imgUrl": "//gw.alicdn.com/tps/TB15oKKOFXXXXaEapXXXXXXXXXX-160-160.png"
+      },
+      {
+        "link": "/tone","name": "淘女郎",
+        "imgUrl": "//gw.alicdn.com/tps/i1/T1xUhtFrBpXXcKi4fo-80-80.png"
+      },
+      {
+        "link": "/tone","name": "阿里云",
+        "imgUrl": "//gw.alicdn.com/tfs/TB1QnvZRXXXXXXRXFXXXXXXXXXX-156-156.png"
+      },
+      {
+        "link": "/tone","name": "淘宝教育",
+        "imgUrl": "//gw.alicdn.com/tps/i1/TB144ZCHFXXXXa.XpXXx67lOXXX-156-156.png"
+      },
+      {
+        "link": "/tone","name": "医药馆",
+        "imgUrl": "//img.alicdn.com/tps/TB1NgqyPpXXXXbJXVXXXXXXXXXX-160-160.png"
+      },
+      {
+        "link": "/tone","name": "拍立淘",
+        "imgUrl": "//gw.alicdn.com/tps/i3/TB1SkomHXXXXXa7XXXXhxQ0WFXX-102-102.png"
+      },
+      {
+        "link": "/tone","name": "量贩淘",
+        "imgUrl": "//gw.alicdn.com/tps/i4/TB1FzSmFVXXXXb7XFXX5rDaIVXX-80-80.pnghttp://gw.alicdn.com/tps/i4/TB1FzSmFVXXXXb7XFXX5rDaIVXX-80-80.png"
+      },
+      {
+        "link": "/tone","name": "全球精选",
+        "imgUrl": "//gw.alicdn.com/tps/i1/TB1EJmgKVXXXXXOXFXXazxJIVXX-144-144.png"
+      },
+      {
+        "link": "/tone","name": "非常大牌",
+        "imgUrl": "//gw.alicdn.com/tps/TB1Q9kjKVXXXXXjXFXXXXXXXXXX-94-94.jpg"
+      },
+      {
+        "link": "/tone","name": "聚家装",
+        "imgUrl": "//gw.alicdn.com/tps/i3/TB1FcTsLpXXXXaGXVXXx67lOXXX-156-156.png"
+      },
+      {
+        "link": "/tone","name": "聚名品",
+        "imgUrl": "//img.alicdn.com/tps/TB1zGGUPFXXXXbhaXXXXXXXXXXX-138-138.jpg"
+      },
+      {
+        "link": "/tone","name": "天天特价",
+        "imgUrl": "//gw.alicdn.com/tps/i2/TB1VtLsGFXXXXcjaXXX5rDaIVXX-80-80.png"
+      },
+      {
+        "link": "/tone","name": "喵鲜生",
+        "imgUrl": "//gw.alicdn.com/tps/i3/TB1MkX.FVXXXXbyXXXX5rDaIVXX-80-80.png"
+      },
+      {
+        "link": "/tone","name": "免费试用",
+        "imgUrl": "//gw.alicdn.com/tps/i1/T1LAJhFuhcXXcKi4fo-80-80.png"
+      },
+      {
+        "link": "/tone","name": "天猫国际",
+        "imgUrl": "//gw.alicdn.com/tps/i4/TB1VJUDGVXXXXXsXFXX5rDaIVXX-80-80.png"
+      },
+      {
+        "link": "/tone","name": "全球购",
+        "imgUrl": "//gw.alicdn.com/tps/TB1uCJILXXXXXa9XpXXXXXXXXXX-156-156.png"
+      },
+      {
+        "link": "/tone","name": "淘宝众筹",
+        "imgUrl": "//gw.alicdn.com/tfs/TB1hOocRVXXXXXOaXXXXXXXXXXX-156-156.png"
+      },
+      {
+        "link": "/tone","name": "淘宝车险",
+        "imgUrl": "//gw.alicdn.com/tps/TB1PLcrNVXXXXcoaXXXXXXXXXXX-156-156.png"
+      },
+      {
+        "link": "/tone","name": "淘必中",
+        "imgUrl": "//gw.alicdn.com/tps/TB1S0hAOpXXXXXDXXXXXXXXXXXX-160-160.png"
+      },
+      {
+        "link": "/tone","name": "淘工作",
+        "imgUrl": "//img.alicdn.com/tps/TB1dsrHPXXXXXb3XFXXXXXXXXXX-156-156.png"
+      },
+      {
+        "link": "/tone","name": "爱逛街",
+        "imgUrl": "//gw.alicdn.com/tps/TB1XDhPQXXXXXamapXXXXXXXXXX-156-156.png"
+      },
+      {
+        "link": "/tone","name": "领券中心",
+        "imgUrl": "//gw.alicdn.com/tfs/TB1ydIjSpXXXXX4XpXXXXXXXXXX-156-156.png"
+      }
+    ]
+  },
+  "theme": {
+    "title": "主题市场",
+    "content": [
+      {
+        "link": "/tone","name": "阿里健康",
+        "imgUrl": "//img.alicdn.com/tps/TB155yHPpXXXXboXFXXXXXXXXXX-160-160.png"
+      },
+      {
+        "link": "/tone","name": "天猫电器城",
+        "imgUrl": "//gw.alicdn.com/tps/i4/T1bDmaFqtXXXcKi4fo-80-80.png"
+      },
+      {
+        "link": "/tone","name": "阿里体育",
+        "imgUrl": "//gw.alicdn.com/tps/TB1jgZcKVXXXXXJXVXXXXXXXXXX-156-156.png"
+      },
+      {
+        "link": "/tone","name": "阿里汽车",
+        "imgUrl": "//gw.alicdn.com/tps/i3/TB1yAHcIVXXXXarapXXx67lOXXX-156-156.png"
+      }
+    ]
+  },
+  "local": {
+    "title": "本地生活",
+    "content": [
+      {
+        "link": "/tone","name": "电影票",
+        "imgUrl": "//gw.alicdn.com/tps/i2/TB1JsAjGFXXXXbGXXXX5rDaIVXX-80-80.png"
+      },
+      {
+        "link": "/tone","name": "外卖",
+        "imgUrl": "//gw.alicdn.com/tps/TB1as7PJFXXXXakXFXXXXXXXXXX-156-156.png"
+      },
+      {
+        "link": "/tone","name": "演出赛事",
+        "imgUrl": "//gw.alicdn.com/tfs/TB1N6lqqb9YBuNjy0FgXXcxcXXa-156-156.png"
+      }
+    ]
+  },
+  "travel": {
+    "title": "旅游度假",
+    "content": [
+      {
+        "link": "/tone","name": "目的地",
+        "imgUrl": "//gw.alicdn.com/tps/i3/TB1nGvCFFXXXXXkaXXX5rDaIVXX-80-80.png"
+      },
+      {
+        "link": "/tone","name": "机票",
+        "imgUrl": "//gw.alicdn.com/tps/i1/T13.JsFq8oXXcKi4fo-80-80.png"
+      },
+      {
+        "link": "/tone","name": "酒店",
+        "imgUrl": "//gw.alicdn.com/tps/i1/T1aStyFphbXXcKi4fo-80-80.png"
+      },
+      {
+        "link": "/tone","name": "景点门票",
+        "imgUrl": "//gw.alicdn.com/tps/i1/T1H7xyFshgXXcKi4fo-80-80.png"
+      },
+      {
+        "link": "/tone","name": "火车票",
+        "imgUrl": "//gw.alicdn.com/tps/i4/TB1iRx5FVXXXXbCXpXX5rDaIVXX-80-80.png"
+      },
+      {
+        "link": "/tone","name": "客栈",
+        "imgUrl": "//gw.alicdn.com/tps/i2/TB1bK5.FFXXXXbYXVXX5rDaIVXX-80-80.png"
+      },
+      {
+        "link": "/tone","name": "签证",
+        "imgUrl": "//gw.alicdn.com/tps/i4/TB1iAkUFFXXXXXlXpXX5rDaIVXX-80-80.png"
+      }
+    ]
+  },
+  "base": {
+    "title": "基础服务",
+    "content": [
+      {
+        "link": "/tone","name": "微淘广场",
+        "imgUrl": "//gw.alicdn.com/tps/i1/T11TXnFz8dXXcKi4fo-80-80.png"
+      },
+      {
+        "link": "/tone","name": "设置",
+        "imgUrl": "//gw.alicdn.com/tps/i1/T1A1BnFrpaXXcKi4fo-80-80.png"
+      },
+      {
+        "link": "/tone","name": "反馈",
+        "imgUrl": "//gw.alicdn.com/tps/i1/T1EvxyFtpiXXcKi4fo-80-80.png"
+      },
+      {
+        "link": "/tone","name": "会员俱乐部",
+        "imgUrl": "//gw.alicdn.com/tps/i1/T14dBXFEViXXcKi4fo-80-80.png"
+      }
+    ]
+  }
+}

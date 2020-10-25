@@ -1,0 +1,306 @@
+{
+  "navTitle":["精选","宝贝","女装","男装","箱包","鞋履","美妆","婴童","生活"],
+  "newGoods": [
+    {
+      "new": true,
+      "enName": "SEE BY CHLOE",
+      "desc": "2020春夏多色Joan牛皮流苏圆环迷你单肩斜挎包女包",
+      "price": 2290,
+      "countPice": 2600,
+      "imgUrl": "//gw.alicdn.com/tps/i3/6000000005350/O1CN01L6fhv81pOLZpXjPkc_!!0-item_pic.jpg_200x200q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "enName": "KATY HUANG STYLE",
+      "desc": "2020春夏多色Joan牛皮流苏圆环迷你单肩斜挎包女包",
+      "price": 699,
+      "countPice": 980,
+      "imgUrl": "//gw.alicdn.com/tps/TB1qnN7eycKOu4jSZKbSuw19XXa_200x200q75.jpg_.webp"
+    },
+    {
+      "new": false,
+      "enName": "HARDY HARDY",
+      "desc": "潮牌2020春夏新品情侣骷髅短袖男女款T恤H20P11USS120",
+      "price": 738,
+      "countPice": 990,
+      "imgUrl": "//gw.alicdn.com/tps/TB1Q4Z3NLb2gK0jSZK9SuuEgFXa_200x200q75.jpg_.webp"
+    },
+    {
+      "new": false,
+      "enName": "HOGAN",
+      "desc": "多色LOGO徽标潮流男士时尚休闲鞋运动鞋",
+      "price": 2099,
+      "countPice": 3100,
+      "imgUrl": "//gw.alicdn.com/tps/TB1.W3WLEH1gK0jSZSySuttlpXa_200x200q75.jpg_.webp"
+    },
+    {
+      "new": false,
+      "enName": "FERRAGAMO",
+      "desc": "峰范男士淡香水30ml",
+      "price": 500,
+      "countPice": 510,
+      "imgUrl": "//gw.alicdn.com/tps/TB12AmPIND1gK0jSZFsSuvldVXa_200x200q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "enName": "HERONPRESTON",
+      "desc": "2020春夏多色字母装饰潮流休闲百搭男包单肩斜挎包",
+      "price": 2830,
+      "countPice": 3300,
+      "imgUrl": "//gw.alicdn.com/tps/TB1qOWOJHj1gK0jSZFOSuw7GpXa_200x200q75.jpg_.webp"
+    },
+    {
+      "new": false,
+      "enName": "DIANE VON FURSTENBERG",
+      "desc": "DVF黑白格纹短裤",
+      "price": 1340,
+      "countPice": 2680,
+      "imgUrl": "//gw.alicdn.com/tps/i4/6000000000775/O1CN010BWhXZ1HazZWjZQfv_!!0-item_pic.jpg_200x200q75.jpg_.webp"
+    },
+    {
+      "new": false,
+      "enName": "GUCCI",
+      "desc": "古驰白色系带经典条纹立体蛇图案装饰男鞋板鞋休闲鞋运动鞋",
+      "price": 5299,
+      "countPice": 5800,
+      "imgUrl": "//gw.alicdn.com/tps/i3/6000000006620/O1CN01r5gyaJ1ym0ZyDyDSd_!!0-item_pic.jpg_200x200q75.jpg_.webp"
+    },
+    {
+      "new": false,
+      "enName": "HARDY HARDY",
+      "desc": "潮牌2020春夏男式卫裤H20P21UKP126",
+      "price": 808,
+      "countPice": 1090,
+      "imgUrl": "//gw.alicdn.com/tps/TB1ALM1NKL2gK0jSZPhSuuhvXXa_200x200q75.jpg_.webp"
+    }
+  ],
+  "famousBrands":[
+    {
+      "imgName": "//gw.alicdn.com/tps/TB12G.OrbwTMeJjSszfXXXbtFXa-400-200.png_180x180q75.jpg_.webp",
+      "imgUrl": "//gw.alicdn.com/tps/O1CN011GkfNd1PdktfQcA0E_!!0-item_pic.jpg_230x230q75.jpg_.webp",
+      "goodsName": "古驰的奇幻世界"
+    },
+    {
+      "imgName": "//gw.alicdn.com/tps/TB1m1EmlpGWBuNjy0FbXXb4sXXa_180x180q75.jpg_.webp",
+      "imgUrl": "//gw.alicdn.com/tps/O1CN01TGTZOp1N0htarqiWL_!!0-item_pic.jpg_230x230q75.jpg_.webp",
+      "goodsName": "穿搭新灵感"
+    },
+    {
+      "imgName": "//gw.alicdn.com/tps/TB1ISQylv5TBuNjSspcXXbnGFXa_180x180q75.jpg_.webp",
+      "imgUrl": "//gw.alicdn.com/tps/O1CN01rO0WCg1bj2rWT5c7T_!!0-item_pic.jpg_230x230q75.jpg_.webp",
+      "goodsName": "引领时尚潮流"
+    },
+    {
+      "imgName": "//gw.alicdn.com/tps/TB1ALxUrwMPMeJjy1XcXXXpppXa-400-200.png_180x180q75.jpg_.webp",
+      "imgUrl": "//gw.alicdn.com/tps/TB1shGyejMZ7e4jSZFOSut7epXa_230x230q75.jpg_.webp",
+      "goodsName": "优雅如影随形"
+    },
+    {
+      "imgName": "//gw.alicdn.com/tps/TB1vHzPvpP7gK0jSZFjXXc5aXXa_180x180q75.jpg_.webp",
+      "imgUrl": "//gw.alicdn.com/tps/O1CN01jDz3px1XfbPdd1nCd_!!0-item_pic.jpg_230x230q75.jpg_.webp",
+      "goodsName": "彰显足间风采"
+    },
+    {
+      "imgName": "//gw.alicdn.com/tps/TB1mRg_mvBNTKJjSszbXXaFrFXa-400-200.png_180x180q75.jpg_.webp",
+      "imgUrl": "//gw.alicdn.com/tps/O1CN01fncSdv1FezoJZqyAU_!!0-item_pic.jpg_230x230q75.jpg_.webp",
+      "goodsName": "打造意式魅力"
+    },
+    {
+      "imgName": "//gw.alicdn.com/tps/TB1c9b0lrSYBuNjSspiXXXNzpXa_180x180q75.jpg_.webp",
+      "imgUrl": "//gw.alicdn.com/tps/O1CN01cs6YxM1nSLoTsUBAm_!!0-item_pic.jpg_230x230q75.jpg_.webp",
+      "goodsName": "经典美式轻奢"
+    },
+    {
+      "imgName": "//gw.alicdn.com/tps/TB1LCx4lSBYBeNjy0FeXXbnmFXa_180x180q75.jpg_.webp",
+      "imgUrl": "//gw.alicdn.com/tps/O1CN01TLxSjV1Ua9rWkARmU_!!0-item_pic.jpg_230x230q75.jpg_.webp",
+      "goodsName": "摩登闪耀不停"
+    },
+    {
+      "imgName": "//gw.alicdn.com/tps/TB1n_JHrwMPMeJjy1XbXXcwxVXa-400-200.png_180x180q75.jpg_.webp",
+      "imgUrl": "//gw.alicdn.com/tps/O1CN01CJ2ewU1TbFBspEkn6_!!0-item_pic.jpg_230x230q75.jpg_.webp",
+      "goodsName": "versace jeans羽绒服"
+    }
+  ],
+  "recommendInfo":[
+    {
+      "imgUrl": "//gw.alicdn.com/imgextra/i2/2670830951/O1CN0105YecD1ItbG6y2qzr_!!2670830951-0-scenario.jpg_145x145q75.jpg_.webp",
+      "title": "休闲时尚"
+    },
+    {
+      "imgUrl": "//gw.alicdn.com/imgextra/i1/2670830951/O1CN01kgNvmw1ItbFrM4WGI_!!2670830951-0-scenario.jpg_145x145q75.jpg_.webp",
+      "title": "百搭时尚"
+    },
+    {
+      "imgUrl": "//gw.alicdn.com/imgextra/i4/2670830951/O1CN01ArNfHw1ItbFw8Un9G_!!2670830951-0-scenario.jpg_145x145q75.jpg_.webp",
+      "title": "百搭简约"
+    },
+    {
+      "imgUrl": "//gw.alicdn.com/imgextra/i3/2670830951/O1CN01j26hIB1ItbFwZtEIF_!!2670830951-0-scenario.jpg_145x145q75.jpg_.webp",
+      "title": "舒适小清新"
+    }
+  ],
+  "lovelyInfo": [
+    {
+      "new": true,
+      "eName": "INITIAL",
+      "desc": "海军蓝纯棉口袋装饰衬衫简约休闲长袖修身棉质外套男装",
+      "price": 479,
+      "oldPrice": 1590,
+      "count": 3.1,
+      "imgUrl": "//gw.alicdn.com/tps/i2/6000000002645/O1CN01WELcUX1VPSDsgK5lj_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "eName": "CM",
+      "desc": "【COMME MOI吕燕】CM设计师品牌 明星同款休闲羊毛呢料直身长外套",
+      "price": 2240,
+      "oldPrice": 6680,
+      "count": 3,
+      "imgUrl": "//gw.alicdn.com/tps/i2/6000000007845/O1CN01sh4CDc27p3lcXSwzq_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "eName": "FERRE",
+      "desc": "秋冬新款男式高领纯色简约保暖长袖羊毛衫 8210456311-01",
+      "price": 1180,
+      "oldPrice": false,
+      "count": 10,
+      "imgUrl": "//gw.alicdn.com/tps/i1/6000000005883/O1CN01AKGtPX1tKSgccupdn_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "eName": "FERRE",
+      "desc": "秋冬新款男式高领纯色简约保暖长袖羊毛衫 8210456311-01",
+      "price": 1180,
+      "oldPrice": false,
+      "count": 10,
+      "imgUrl": "//gw.alicdn.com/tps/i1/6000000005883/O1CN01AKGtPX1tKSgccupdn_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "eName": "FERRE",
+      "desc": "秋冬新款男式高领纯色简约保暖长袖羊毛衫 8210456311-01",
+      "price": 1180,
+      "oldPrice": false,
+      "count": 10,
+      "imgUrl": "//gw.alicdn.com/tps/i1/6000000005883/O1CN01AKGtPX1tKSgccupdn_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "eName": "FERRE",
+      "desc": "秋冬新款男式高领纯色简约保暖长袖羊毛衫 8210456311-01",
+      "price": 1180,
+      "oldPrice": false,
+      "count": 10,
+      "imgUrl": "//gw.alicdn.com/tps/i1/6000000005883/O1CN01AKGtPX1tKSgccupdn_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "eName": "FERRE",
+      "desc": "秋冬新款男式高领纯色简约保暖长袖羊毛衫 8210456311-01",
+      "price": 1180,
+      "oldPrice": false,
+      "count": 10,
+      "imgUrl": "//gw.alicdn.com/tps/i1/6000000005883/O1CN01AKGtPX1tKSgccupdn_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "eName": "FERRE",
+      "desc": "秋冬新款男式高领纯色简约保暖长袖羊毛衫 8210456311-01",
+      "price": 1180,
+      "oldPrice": false,
+      "count": 10,
+      "imgUrl": "//gw.alicdn.com/tps/i1/6000000005883/O1CN01AKGtPX1tKSgccupdn_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "eName": "FERRE",
+      "desc": "秋冬新款男式高领纯色简约保暖长袖羊毛衫 8210456311-01",
+      "price": 1180,
+      "oldPrice": false,
+      "count": 10,
+      "imgUrl": "//gw.alicdn.com/tps/i1/6000000005883/O1CN01AKGtPX1tKSgccupdn_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "eName": "FERRE",
+      "desc": "秋冬新款男式高领纯色简约保暖长袖羊毛衫 8210456311-01",
+      "price": 1180,
+      "oldPrice": false,
+      "count": 10,
+      "imgUrl": "//gw.alicdn.com/tps/i1/6000000005883/O1CN01AKGtPX1tKSgccupdn_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "eName": "FERRE",
+      "desc": "秋冬新款男式高领纯色简约保暖长袖羊毛衫 8210456311-01",
+      "price": 1180,
+      "oldPrice": false,
+      "count": 10,
+      "imgUrl": "//gw.alicdn.com/tps/i1/6000000005883/O1CN01AKGtPX1tKSgccupdn_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "eName": "FERRE",
+      "desc": "秋冬新款男式高领纯色简约保暖长袖羊毛衫 8210456311-01",
+      "price": 1180,
+      "oldPrice": false,
+      "count": 10,
+      "imgUrl": "//gw.alicdn.com/tps/i1/6000000005883/O1CN01AKGtPX1tKSgccupdn_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "eName": "FERRE",
+      "desc": "秋冬新款男式高领纯色简约保暖长袖羊毛衫 8210456311-01",
+      "price": 1180,
+      "oldPrice": false,
+      "count": 10,
+      "imgUrl": "//gw.alicdn.com/tps/i1/6000000005883/O1CN01AKGtPX1tKSgccupdn_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "eName": "FERRE",
+      "desc": "秋冬新款男式高领纯色简约保暖长袖羊毛衫 8210456311-01",
+      "price": 1180,
+      "oldPrice": false,
+      "count": 10,
+      "imgUrl": "//gw.alicdn.com/tps/i1/6000000005883/O1CN01AKGtPX1tKSgccupdn_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "eName": "FERRE",
+      "desc": "秋冬新款男式高领纯色简约保暖长袖羊毛衫 8210456311-01",
+      "price": 1180,
+      "oldPrice": false,
+      "count": 10,
+      "imgUrl": "//gw.alicdn.com/tps/i1/6000000005883/O1CN01AKGtPX1tKSgccupdn_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "eName": "FERRE",
+      "desc": "秋冬新款男式高领纯色简约保暖长袖羊毛衫 8210456311-01",
+      "price": 1180,
+      "oldPrice": false,
+      "count": 10,
+      "imgUrl": "//gw.alicdn.com/tps/i1/6000000005883/O1CN01AKGtPX1tKSgccupdn_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "eName": "FERRE",
+      "desc": "秋冬新款男式高领纯色简约保暖长袖羊毛衫 8210456311-01",
+      "price": 1180,
+      "oldPrice": false,
+      "count": 10,
+      "imgUrl": "//gw.alicdn.com/tps/i1/6000000005883/O1CN01AKGtPX1tKSgccupdn_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    },
+    {
+      "new": true,
+      "eName": "FERRE",
+      "desc": "秋冬新款男式高领纯色简约保暖长袖羊毛衫 8210456311-01",
+      "price": 1180,
+      "oldPrice": false,
+      "count": 10,
+      "imgUrl": "//gw.alicdn.com/tps/i1/6000000005883/O1CN01AKGtPX1tKSgccupdn_!!0-item_pic.jpg_360x360q75.jpg_.webp"
+    }
+  ]
+}
