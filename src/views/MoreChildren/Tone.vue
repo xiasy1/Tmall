@@ -2,81 +2,36 @@
   <!-- 腔调商店页面 -->
   <div class="Tone">
     <swiper class="swiper1" :options="swiperOption1">
-      <swiper-slide>
-        <img src="~assets/img/more/banner1.webp" alt="" />
+      <swiper-slide v-for="(item,i) in swiper1Info" :key="i">
+        <img :src="item.imgUrl" alt="" />
         <div class="imgDesc">
           <img src="~assets/img/more/logo.webp" alt="">
           <h5>
             <span>时裳</span>
-            <em>VOL.040</em>
+            <em>VOL.0{{item.Vol}}</em>
           </h5>
-          <h2>无色胜有色</h2>
-          <p>不过时的黑白灰   无法超越的经典。</p>
+          <h2>{{item.title}}</h2>
+          <p>{{item.tip}}</p>
         </div>
-      </swiper-slide>
-      <swiper-slide>
-        <img src="~assets/img/more/banner2.jpg" alt="" />
-        <div class="imgDesc">
-          <img src="~assets/img/more/logo.webp" alt="">
-          <h5>
-            <span>时裳</span>
-            <em>VOL.040</em>
-          </h5>
-          <h2>无色胜有色</h2>
-          <p>不过时的黑白灰   无法超越的经典。</p>
-        </div>
-      </swiper-slide>
-      <swiper-slide>
-        <img src="~assets/img/more/banner3.jpg" alt="" />
-        <div class="imgDesc">
-          <img src="~assets/img/more/logo.webp" alt="">
-          <h5>
-            <span>时裳</span>
-            <em>VOL.040</em>
-          </h5>
-          <h2>无色胜有色</h2>
-          <p>不过时的黑白灰   无法超越的经典。</p>
-        </div>
-      </swiper-slide>
-      <swiper-slide>
-        <img src="~assets/img/more/banner4.jpg" alt="" />
-      </swiper-slide>
-      <swiper-slide>
-        <img src="~assets/img/more/banner5.jpg" alt="" />
-      </swiper-slide>
-      <swiper-slide>
-        <img src="~assets/img/more/banner6.jpg" alt="" />
-      </swiper-slide>
-      <swiper-slide>
-        <img src="~assets/img/more/banner7.jpg" alt="" />
-      </swiper-slide>
-      <swiper-slide>
-        <img src="~assets/img/more/banner8.png" alt="" />
       </swiper-slide>
       <div class="swiper-pagination" slot="pagination"></div>
     </swiper>
 
     <swiper class="swiper2" :options="swiperOption2">
-      <swiper-slide v-for="item in 3" :key="item">
+      <swiper-slide v-for="(obj,i) in swiper2Info" :key="i">
         <ul class="listTop">
-          <li v-for="item in 4" :key="item">
+          <li v-for="(item1,j) in obj.top" :key="j">
             <a href="">
-              <h5>冬新品{{ item }}</h5>
-              <img
-                src="//gw.alicdn.com/imgextra/i1/904521978/O1CN011QTxsdjPEDtfWRn_!!904521978.jpg_110x110Q50s100.jpg_.webp"
-                alt=""
-              />
+              <h5>{{ item1.title }}</h5>
+              <img :src="item1.imgUrl" alt=""/>
             </a>
           </li>
         </ul>
         <ul class="listBottom">
-          <li v-for="item in 4" :key="item">
+          <li v-for="(item2,k) in obj.bottom" :key="k+10">
             <a href="">
-              <h5>冬新品{{ item }}</h5>
-              <img
-                src="//gw.alicdn.com/imgextra/i1/904521978/O1CN011QTxsdjPEDtfWRn_!!904521978.jpg_110x110Q50s100.jpg_.webp"
-                alt=""
-              />
+              <h5>{{ item2.title }}</h5>
+              <img :src="item2.imgUrl" alt="" />
             </a>
           </li>
         </ul>
@@ -85,16 +40,16 @@
     </swiper>
 
     <nav>
-      <a href="" v-for="item in 20" :key="item">
-        <img src="~assets/img/more/banner3.jpg" alt="" />
+      <a href="" v-for="(item,i) in goodsDetails" :key="i+20">
+        <img :src="item.imgUrl" alt="" />
         <div class="imgDesc">
           <img src="~assets/img/more/logo.webp" alt="">
           <h5>
             <span>时裳</span>
-            <em>VOL.040</em>
+            <em>VOL.0{{item.vol}}</em>
           </h5>
-          <h2>时髦红人的早秋搭配</h2>
-          <p>不过时的黑白灰   无法超越的经典。</p>
+          <h2>{{item.title}}</h2>
+          <p>{{item.tip}}</p>
         </div>
       </a>
     </nav>
@@ -102,11 +57,12 @@
 </template>
 
 <script>
+import {getToneInfo} from "network/more"
+
 export default {
   data() {
     return {
       swiperOption1: {
-        loop: true,
         pagination: {
           el: ".swiper-pagination",
           clickable: true,
@@ -116,22 +72,37 @@ export default {
       },
 
       swiperOption2: {
-        loop: true,
         pagination: {
           el: ".swiper-pagination",
           clickable: true,
         },
-        autoplay: true,
+        autoplay: {
+          delay: 4000
+        },
       },
+
+      swiper1Info: [],    //轮播图1数据
+      swiper2Info: [],    //轮播图2数据
+      goodsDetails: []    //商品详情数据
     };
   },
   created() {
     this.$store.commit("changeTabshow");
+    this.getToneGoods("swiper1Info");
+    this.getToneGoods("swiper2Info");
+    this.getToneGoods("goodsDetails");
   },
   beforeRouteLeave(to, from, next) {
     this.$store.commit("changeTabnone");
     next();
   },
+  methods: {
+    getToneGoods(content) {
+      getToneInfo().then(res=>{
+        this[content] = res.data[content]
+      })
+    }
+  }
 };
 </script>
 
@@ -276,7 +247,7 @@ nav {
     position: absolute;
     top: 0;
     left: 0;
-    background: #45454aa1;
+    background: #302e307e;
     img{
       width: 41px;
       height: 43px;

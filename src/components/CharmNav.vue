@@ -1,7 +1,10 @@
 <template>
   <div class="nav">
-    <ul class="navbar">
-      <li v-for="item in 9" :key='item'>精选</li>
+    <ul class="navbar" @click="navItemClick">
+      <li v-for="(item,i) in navTitle" :key='i'
+        :class="{isActive: currentIndex == i}"
+        :data-key= i
+      >{{item}}</li>
     </ul>    
     <div class="line"></div>
   </div>
@@ -9,7 +12,24 @@
 
 <script>
   export default {
-    
+    props: {
+      navTitle:{
+        type: Array
+      }
+    },
+    data() {
+      return {
+        currentIndex: 0
+      }
+    },
+    methods: {
+      navItemClick(ev) {
+        const key = ev.target.dataset.key
+        if(key) {
+          this.currentIndex = key
+        }
+      }
+    }
   }
 </script>
 
@@ -33,6 +53,9 @@
       font-size: 0.875rem;
       text-align: center;
       line-height: 2.125rem;
+      &.isActive{
+        color: #ffad7d;
+      }
     }
   }  
   .line{

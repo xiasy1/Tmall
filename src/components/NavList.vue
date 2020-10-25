@@ -34,17 +34,21 @@
     flex-wrap: wrap;
     border: 1px solid silver;
     li{
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      width: 5.5rem;
-      margin: 1.25rem 0;
+      a{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 5.5rem;
+        margin: 1rem 0;        
+      }
       img{
-        width: 2.8125rem;
+        width: 3rem;
       }
       p{
         font-size: 0.75rem;
         text-align: center;
+        margin-top: 0.375rem;
       }
     }
   }

@@ -51,6 +51,7 @@
   height: 1.875rem;
   line-height: 1.875rem;
   margin: 0.625rem auto;
+  box-sizing: border-box;
   border: 1px solid #5f646e;
   border-radius: 0.5rem;
   li{

@@ -15,9 +15,9 @@ import {getNavListInfo} from 'network/more'
 export default {
   data() {
     return {
-      local: {},
-      travel: {},
-      base: {}
+      local: {},    //本地生活列表
+      travel: {},   //旅游度假列表
+      base: {}      //基础服务列表
     };
   },
     created() {
